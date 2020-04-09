@@ -5,10 +5,17 @@
 Soccer Project
 
 ### Description
-Describe what your project is about and what it does
+This soccer database comes from Kaggle and contains data for thousands of soccer matches, players, and teams from several European countries from 2008 to 2016. This dataset is quite extensive and well suited for data analysis.
 
-### Files used
-Include the files used
+The database has the following tables:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Country
+League
+Match
+Player
+Player_Attributes
+Team
+Team_Attributes.
+The tables will be joined together where appropriate to answer relevant questions that will be asked subsequently.
+
+This analysis seeks to look at how the team with the highest number of home goals creates chances and the techniques involed. Next we will seek to know the overall best players and then identify their unique attributes
